@@ -1,0 +1,15 @@
+.btn-xsm {
+    padding: 0.2rem 0.2rem;
+    font-size: 14px;
+}
+
+#statusarea {
+    font-size: 10px;
+    color: rgb(255, 255, 159);
+    background-color: rgb(47, 47, 111);
+    width: 100%;
+}
+
+#currentimagetitle {
+    color: rgb(255, 255, 159);
+}
