@@ -12,13 +12,10 @@ class MountStat extends React.Component {
 
     render() {
         return (
-            <form>
-                <label>
-                    <textarea id="statusarea" name="status"
-                        rows="15" cols="40" value={this.state.value} />
-                </label>
-
-            </form>
+            <label>
+                <textarea id="statusarea" name="status"
+                    rows="15" cols="40" defaultValue={this.state.value} />
+            </label>
         );
     }
 }

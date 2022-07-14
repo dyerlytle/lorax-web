@@ -1,0 +1,4 @@
+{
+    "Camera_Broadcast_Topic": "lorax.timo.camera.broadcast",
+    "Mount_Broadcast_Topic": "lorax.timo.mount.broadcast"
+}

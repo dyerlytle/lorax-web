@@ -13,3 +13,36 @@
 #currentimagetitle {
     color: rgb(255, 255, 159);
 }
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+#cdiv,
+#navi {
+    width: 50%;
+    height: 800px;
+    position: absolute;
+    float: left;
+    float: bottom;
+    top: 20;
+    left: 0;
+    font-size: 6px;
+}
+
+#navi {
+    z-index: 10;
+}
+
+#threedcdiv {
+    width: 300px;
+    height: 300px;
+    position: left;
+    float: left;
+    left: 51%;
+}
+
+.color-nav {
+    background-color: rgb(141, 171, 255);
+}

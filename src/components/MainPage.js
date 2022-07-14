@@ -8,8 +8,6 @@ import DomeStat from './DomeStat';
 import {
     Container,
     Row,
-    Button,
-    ButtonGroup,
     Col
 } from 'react-bootstrap';
 import './styles.css';
